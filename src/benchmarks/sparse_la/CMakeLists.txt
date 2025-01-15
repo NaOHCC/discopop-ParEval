@@ -1,0 +1,5 @@
+add_subdirectory(47_sparse_la_spmv)
+add_subdirectory(46_sparse_la_spmm)
+add_subdirectory(48_sparse_la_sparse_axpy)
+add_subdirectory(45_sparse_la_sparse_solve)
+add_subdirectory(49_sparse_la_sparse_lu_decomp)

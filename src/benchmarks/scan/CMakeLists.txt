@@ -1,0 +1,5 @@
+add_subdirectory(30_scan_prefix_sum)
+add_subdirectory(31_scan_scan_with_min_function)
+add_subdirectory(34_scan_largest_contiguous_subarray_sum)
+add_subdirectory(33_scan_reverse_prefix_sum)
+add_subdirectory(32_scan_sum_of_prefix_sum_array)

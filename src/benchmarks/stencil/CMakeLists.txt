@@ -1,0 +1,5 @@
+add_subdirectory(51_stencil_edge_kernel)
+add_subdirectory(50_stencil_xor_kernel)
+add_subdirectory(53_stencil_2d_jacobi_5-point_stencil)
+add_subdirectory(54_stencil_game_of_life)
+add_subdirectory(52_stencil_1d_jacobi_3-point_stencil)

@@ -1,0 +1,5 @@
+add_subdirectory(39_search_xor_contains)
+add_subdirectory(37_search_find_the_closest_number_to_pi)
+add_subdirectory(36_search_check_if_array_contains_value)
+add_subdirectory(35_search_search_for_last_struct_by_key)
+add_subdirectory(38_search_find_the_first_even_number)

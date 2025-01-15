@@ -1,0 +1,5 @@
+add_subdirectory(04_dense_la_gemv)
+add_subdirectory(03_dense_la_axpy)
+add_subdirectory(00_dense_la_lu_decomp)
+add_subdirectory(02_dense_la_gemm)
+add_subdirectory(01_dense_la_solve)

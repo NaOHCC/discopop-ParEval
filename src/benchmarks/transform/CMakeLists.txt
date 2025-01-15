@@ -1,0 +1,5 @@
+add_subdirectory(59_transform_map_function)
+add_subdirectory(57_transform_inverse_offset)
+add_subdirectory(58_transform_squaring)
+add_subdirectory(56_transform_negate_odds)
+add_subdirectory(55_transform_relu)

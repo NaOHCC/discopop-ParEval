@@ -1,0 +1,5 @@
+add_subdirectory(29_reduce_sum_of_min_of_pairs)
+add_subdirectory(25_reduce_xor)
+add_subdirectory(28_reduce_smallest_odd_number)
+add_subdirectory(27_reduce_average)
+add_subdirectory(26_reduce_product_of_inverses)

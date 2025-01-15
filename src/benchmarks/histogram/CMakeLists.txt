@@ -1,0 +1,5 @@
+add_subdirectory(23_histogram_first_letter_counts)
+add_subdirectory(20_histogram_pixel_histogram)
+add_subdirectory(22_histogram_count_quadrants)
+add_subdirectory(24_histogram_count_quartile)
+add_subdirectory(21_histogram_bin_0-100)

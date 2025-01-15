@@ -1,0 +1,5 @@
+add_subdirectory(09_fft_fft_out_of_place)
+add_subdirectory(07_fft_fft_conjugate)
+add_subdirectory(05_fft_inverse_fft)
+add_subdirectory(06_fft_dft)
+add_subdirectory(08_fft_split_fft)

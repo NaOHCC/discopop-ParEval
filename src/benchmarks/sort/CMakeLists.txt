@@ -1,0 +1,5 @@
+add_subdirectory(43_sort_sort_an_array_of_structs_by_key)
+add_subdirectory(44_sort_sort_non-zero_elements)
+add_subdirectory(40_sort_sort_an_array_of_complex_numbers_by_magnitude)
+add_subdirectory(42_sort_sorted_ranks)
+add_subdirectory(41_sort_k-th_smallest_element)

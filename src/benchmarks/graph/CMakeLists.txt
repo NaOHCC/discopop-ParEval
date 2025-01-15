@@ -1,0 +1,5 @@
+add_subdirectory(17_graph_highest_degree)
+add_subdirectory(15_graph_edge_count)
+add_subdirectory(16_graph_largest_component)
+add_subdirectory(19_graph_shortest_path)
+add_subdirectory(18_graph_count_components)

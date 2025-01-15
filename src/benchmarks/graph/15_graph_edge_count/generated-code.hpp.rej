@@ -1,0 +1,7 @@
+--- generated-code.hpp	2025-01-14 13:52:05.115502655 +0800
++++ generated-code.hpp.discopop_patch_generator.temp	2025-01-14 14:27:50.073984527 +0800
+@@ -18,4 +19,4 @@
+     }
+   }
+   return count;
+-}+}
