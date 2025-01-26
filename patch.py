@@ -18,6 +18,7 @@ if(EXISTS ${{CMAKE_CURRENT_SOURCE_DIR}}/generated-code.hpp)
     add_executable({parent_directory} cpu.cc)
     target_include_directories({parent_directory} PRIVATE ${{CMAKE_CURRENT_SOURCE_DIR}})
     target_link_libraries({parent_directory} driver OpenMP::OpenMP_CXX)
+    file(APPEND "${{CMAKE_BINARY_DIR}}/executable.txt" "{parent_directory}\n")
 endif()
     """
         with open(f"{directory}/CMakeLists.txt", "w") as f:
